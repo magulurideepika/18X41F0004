@@ -2,3 +2,6 @@
 # workshop
 ## on reactjs
 ### for srk college
+**bold**
+*italic*
+***bothboldanditalic***
